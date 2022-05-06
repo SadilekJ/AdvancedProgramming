@@ -22,5 +22,17 @@ HR jisté společnosti přijde za vývojáři s požadavkem na zpracování hodn
 - Background jobs
 - Advanced debugging
 - Email services
+- Fluxor
 
 ## Časový plán
+- Design stránky pro záznam hodnocení pracovníka s vedoucím - 7 hodin
+- Přepsání frontend stránek do Fluxoru - 6 hodin
+- Napojení backendu na frontend - 4 hodiny
+- Tvorba databázových objektů - 3 hodiny
+- Tvorba migrací a update databáze - 3 hodiny
+- Přidání role administrátora - 4 hodiny
+- Přidání role manažera - 4 hodiny
+- Testování implementace - 6 hodin
+- Přidat notifikace pro pracovníky, HR a vedoucí - 4 hodiny
+- Přidání auditu vytvořených tabulek - 5 hodin
+- Odebrání závislosti na externí službě - 5 hodin
